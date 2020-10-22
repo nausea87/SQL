@@ -7,7 +7,7 @@ Murder Mystery
 </head>
 <body>
 
-<img src=">
+<img src="./design.png">
 
 </body>
 
