@@ -2,7 +2,7 @@
 
 ## Background
 
-Sandra Danielsson has been murdered @ Zamenhof, Gothenburg on 8/04/2020.
+Sandra Danielsson has been murdered at a restaurant in Gothenburg on 8/04/2020.
 Who commited this gruesome murder?!
 
 #
