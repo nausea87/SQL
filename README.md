@@ -5,7 +5,7 @@
 </head>
 <body>
 <p>
-A murder has been commited @ Zamenhof, Gothenburg.
+Sandra Danielsson has been murdered @ Zamenhof, Gothenburg on 8/04/2020. Who commited this gruesome murder?!
 </p>
 </body>
 
