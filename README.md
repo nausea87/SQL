@@ -1,6 +1,6 @@
 # **The horrific murder of Sandra**
 
-<img src="https://github.com/nausea87/SQL/blob/main/satupd.png">
+<img src="https://github.com/nausea87/SQL/blob/main/design.png">
 
 ## Background
 
