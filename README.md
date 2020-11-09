@@ -1,5 +1,7 @@
 # **The horrific murder of Sandra**
 
+<img src="https://github.com/nausea87/SQL/blob/main/satupd.png">
+
 ## Background
 
 There once was a woman named Sandra Danielsson. Loved and cherished
